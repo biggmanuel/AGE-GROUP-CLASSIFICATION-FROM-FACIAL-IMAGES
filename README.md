@@ -35,8 +35,8 @@ Age_Classification_Project/
 1. Clone the repository
 
 Bash
-git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
-cd Your-Repo-Name
+git clone [https://github.com/biggmanuel/AGE-GROUP-CLASSIFICATION-FROM-FACIAL-IMAGES.git](github.com/biggmanuel/AGE-GROUP-CLASSIFICATION-FROM-FACIAL-IMAGES.git)
+cd AGE-GROUP-CLASSIFICATION-FROM-FACIAL-IMAGES
 2. Install Dependencies
 Ensure you have Python installed, then run:
 
