@@ -7,6 +7,8 @@
 ## 📌 Project Overview
 This project is an offline-first, biometric access control portal powered by a Convolutional Neural Network (CNN). It acts as a security gateway, utilizing Deep Learning and Facial Recognition principles to predict a user's age demographic (Child, Teenager, or Adult) from a 2D facial photograph and grant or deny access accordingly.
 
+link to already hosted app https://age-group-classification.streamlit.app/
+
 This system was specifically architected to run completely locally for academic defense presentations, ensuring zero reliance on active internet connections during demonstrations.
 
 ## 🚀 Key Features
