@@ -29,3 +29,31 @@ Age_Classification_Project/
 ├── model.h5               # The pre-trained AI brain (Weights & Biases)
 ├── requirements.txt       # Dependencies for cloud deployment
 └── Dataset/               # The raw training data (Adult, Child, Teenager)
+
+
+💻 How to Run Locally
+1. Clone the repository
+
+Bash
+git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
+cd Your-Repo-Name
+2. Install Dependencies
+Ensure you have Python installed, then run:
+
+Bash
+pip install -r requirements.txt
+3. Launch the Application
+
+Bash
+python -m streamlit run app.py
+(The system will open automatically in your default web browser at http://localhost:8501)
+
+🔑 Demo Credentials
+To bypass the initial security gateway during testing, use the following local credentials:
+
+Username: admin
+
+Password: unical2026
+
+🧠 Model Training details
+The AI model (model.h5) was trained using a custom dataset of faces categorized into three distinct folders. Due to local hardware constraints, the model was trained using Google Colab's cloud infrastructure, achieving high validation accuracy over 10 epochs before being exported for offline local deployment.
